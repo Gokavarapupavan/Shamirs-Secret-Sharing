@@ -68,7 +68,8 @@ The program reads JSON input, parses the given points, and reconstructs the secr
         "value": "213"
     }
 }
-## Sample Input 2 (JSON)
+
+Sample Input 2
 ``` Json
 
 ---
