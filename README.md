@@ -150,6 +150,3 @@ Test Case2: -6290016743746469796
 The complete solution is implemented and pushed to the GitHub repository as required for submission.
 
 ---
-
-⚠️ I’ve placed `"Reconstructed secret: 1234"` as a placeholder for **Test Case 2 output** since you haven’t shared the actual computed secret yet.
-Do you want me to calculate the **real reconstructed secret** for Test Case 2 and update it in the README, or keep the placeholder?
