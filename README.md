@@ -1,4 +1,8 @@
-# Hashira Placements Assignment – Shamir Secret Sharing
+Got it 👍 — here’s the cleaned-up **README.md** without emojis:
+
+---
+
+# Hashira Placements Assignment – Shamir Secret Sharing Reconstruction
 
 ## Overview
 
@@ -43,7 +47,7 @@ The program reads JSON input, parses the given points, and reconstructs the secr
 
 ---
 
-## Sample Input 1 (JSON)
+## Sample Input (JSON)
 
 ```json
 {
@@ -68,14 +72,15 @@ The program reads JSON input, parses the given points, and reconstructs the secr
         "value": "213"
     }
 }
+```
 
+---
 
-
-## Output
+## Sample Output
 
 ```
-Test case1: 3
-Test case2: -6290016743746469796
+test case1: 3
+test case2: -6290016743746469796
 ```
 
 ---
@@ -92,3 +97,6 @@ Test case2: -6290016743746469796
 
 The complete solution is implemented and pushed to the GitHub repository as required for submission.
 
+---
+
+Do you also want me to add a **"Project Structure" section** (like showing where the `ShamirSecretSharing.java` file and input JSON should be placed) for more clarity?
